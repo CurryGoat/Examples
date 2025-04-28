@@ -38,7 +38,7 @@ import components.list.ListSecondary;
  *    $this.postFinish.previous])
  * </pre>
  *
- * @author Put your name here
+ * @author Soaham P
  *
  */
 public class List3<T> extends ListSecondary<T> {
